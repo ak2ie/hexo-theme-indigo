@@ -1,0 +1,13 @@
+global:
+  search_input_hint: "Search"
+
+post:
+  continue_reading: "続きを読む..."
+  last_updated: "最終更新: "
+
+footer:
+  license: 'このブログは <a rel="license" href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>の下でライセンスされています。'
+
+tag:
+  all: "すべて"
+  tags: "タグ"
