@@ -17,9 +17,9 @@ menu:
   tags:
     text: タグ
     url: /tags
-  th-list:
-    text: カテゴリー
-    url: /categories
+# th-list:
+#    text: カテゴリー
+#    url: /categories
   github:
     url: https://github.com/Otakan951
     target: _blank
@@ -51,7 +51,7 @@ color: '#3F51B5'
 # 页面标题
 tags_title: Tags
 archives_title: Archives
-categories_title: Categories
+#categories_title: Categories
 
 # 文章截断
 excerpt_render: false
