@@ -9,41 +9,38 @@
 #    target: _blank    是否跳出，省略则在当前页面打开
 menu:
   home:
-    text: ホーム
+    text: Home
     url: /
   archives:
-    text: アーカイブ
+    text: Archives
     url: /archives
   tags:
-    text: タグ
+    text: Tags
     url: /tags
 # th-list:
 #    text: カテゴリー
 #    url: /categories
   github:
-    url: https://github.com/Otakan951
+    url: https://github.com/ak2ie
     target: _blank
   twitter:
-    url: https://twitter.com/Otakan951
+    url: https://twitter.com/ak2ie
     target: _blank
-  link:
-    text: Mastodon
-    url: https://mstdn.maud.io/@Otakan951
 
 # 你的头像url
-avatar: /img/avatar.png
+avatar: /img/aki_icon.png
 # avatar link
 avatar_link: /
 # 头像背景图
-brand: /img/brand.png
+brand: /img/keyboard.jpg
 # favicon
 favicon: /favicon.ico
 
 # email
-email: https://otakan.jp
+email:
 
 # sitename
-sitename: OtakanSite
+sitename: Cornflakes Diary
 
 # 设置 Android L Chrome 浏览器状态栏颜色
 color: '#3F51B5'
@@ -64,7 +61,7 @@ archive_yearly: true
 show_last_updated: true
 
 # 是否开启分享
-share: true
+share: false
 
 # 是否开启打赏，关闭 
 reward: false
@@ -97,7 +94,7 @@ baidu_tongji: false
 tajs: false
 
 # google
-google_analytics: false
+google_analytics: UA-22338768-7
 google_site_verification: false
 
 # less
@@ -129,7 +126,7 @@ canonical: false
 since_year: 2015
 
 # 用户页面中作者相关的描述性文字，如不需要设为 false
-about: コンピュータ何も分からん
+about: プログラムを書きたい日々
 
 # “不蒜子”访问量统计，详见 http://ibruce.info/2015/04/04/busuanzi/
 #visit_counter:
@@ -149,3 +146,7 @@ lightbox: true
 
 # icp备案号  ICP_license: 京ICP备1234556号-1
 ICP_license: false
+
+lazyload:
+  enable: true 
+  onlypost: false
